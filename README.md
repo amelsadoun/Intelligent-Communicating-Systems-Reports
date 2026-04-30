@@ -23,4 +23,4 @@ Short collection of ICS lab reports covering microcontrollers, Arduino GPIO, sen
 
 **Institution**: ESI (École Supérieure d'Informatique)  
 **Course**: 2CSS1 - Intelligent & Communicating Systems  
-**Year**: 2CSS1
+**Year**: 2025/2026
